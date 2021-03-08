@@ -9,7 +9,7 @@
    1. [Questions](#Questions)
 
    ## Project Description
-   - This is an express based note taker application. The user may take any number of notes, and the notes are tracked on the left hand side. Please click on [this link]() to access the deployed application on Heroku. 
+   - This is an express based note taker application. The user may take any number of notes, and the notes are tracked on the left hand side. Please click on [this link](https://arcane-hamlet-77286.herokuapp.com/) to access the deployed application on Heroku. 
 
    ## Installation instructions (to deploy your own local or hosted server):
    1. clone the file into your directory 
